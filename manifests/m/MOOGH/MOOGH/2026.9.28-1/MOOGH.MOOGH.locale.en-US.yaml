@@ -25,7 +25,6 @@ Tags:
 - automation
 - desktop
 - computer-use
-ReleaseNotesUrl: https://github.com/youlemei2022-web/moogh-desktop-agent/releases/tag/v2026.9.28-1
 InstallationNotes: |-
   MOOGH installs per-user by default; admin rights are only required for a machine-wide install.
   Official download page: https://agent.aimoogh.com/download
