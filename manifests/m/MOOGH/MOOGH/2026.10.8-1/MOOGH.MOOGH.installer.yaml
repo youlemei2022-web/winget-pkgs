@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: MOOGH.MOOGH
-PackageVersion: 2026.9.28-1
+PackageVersion: 2026.10.8-1
 InstallerType: nullsoft
 Scope: user
 InstallModes:
@@ -9,10 +9,10 @@ InstallModes:
 - silent
 - silentWithProgress
 UpgradeBehavior: install
-ReleaseDate: 2026-09-28
+ReleaseDate: 2026-10-08
 Installers:
 - Architecture: x64
-  InstallerUrl: https://down.aimoogh.com/downloads/win/stable/2026.9.28-1/moogh-win-x64-2026.9.28-1.exe
-  InstallerSha256: 73F10D283CAA32C117A0112A72729FFBF2D7B32D055837FC34C5A69D9F2CA2F2
+  InstallerUrl: https://down.aimoogh.com/downloads/win/stable/2026.10.8-1/moogh-win-x64-2026.10.8-1.exe
+  InstallerSha256: 5ED5D075C71C63A85E861C46296D4E408BA6B1C0B7B47D86B325B01BE6C56126
 ManifestType: installer
 ManifestVersion: 1.10.0
